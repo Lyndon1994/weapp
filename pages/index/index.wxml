@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto">
+    <view class="motto-title">{{motto}}</view>
+    <view class="motto-desc">已经</view>
+    <view class="motto-date">{{mottoDate}}</view>
+  </view>
+</view>

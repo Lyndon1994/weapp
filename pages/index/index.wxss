@@ -1,0 +1,20 @@
+
+.usermotto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.motto-title{
+	color:pink;
+	font-size:26px;
+	line-height:2em;
+}
+.motto-desc{
+	color:#aaa;
+	line-height:2em;
+}
+.motto-date{
+	color:red;
+	font-size:26px;
+	line-height:2em;
+}

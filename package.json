@@ -1,0 +1,14 @@
+{
+  "name": "weapp",
+  "version": "1.0.0",
+  "description": "玩一玩微信小程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lyndon",
+  "license": "MIT",
+  "dependencies": {
+    "weui-wxss": "^1.1.1"
+  }
+}
